@@ -1,0 +1,32 @@
+{
+    "ProcedureStepDescription": "HAssal_Music", 
+    "DeviceSerialNumber": "67025", 
+    "ManufacturersModelName": "Prisma_fit", 
+    "ProtocolName": "gre_field_mapping", 
+    "PhaseEncodingLines": 68, 
+    "RepetitionTime": 0.533, 
+    "MagneticFieldStrength": 3, 
+    "AcquisitionNumber": 1, 
+    "InstitutionName": "USC", 
+    "BodyPartExamined": "BRAIN", 
+    "ConversionSoftware": "dcm2niix", 
+    "ScanningSequence": "GR", 
+    "Manufacturer": "Siemens", 
+    "FlipAngle": 60, 
+    "ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0", 
+    "SeriesDescription": "gre_field_mapping", 
+    "InstitutionAddress": "McClintock_3520A_Los_Angeles_SVC0e0594213b1104_CA_US_90089", 
+    "AcquisitionTime": "13:33:10.112500", 
+    "SequenceName": "_fm2d2r", 
+    "ImageType": [
+        "ORIGINAL", 
+        "PRIMARY", 
+        "M", 
+        "ND"
+    ], 
+    "EchoTime": 0.00519, 
+    "SequenceVariant": "SP", 
+    "PhaseEncodingDirection": "j-", 
+    "SoftwareVersions": "syngo_MR_E11", 
+    "IntendedFor": "func/sub-23_task-rest_bold.nii.gz"
+}
